@@ -1,0 +1,13 @@
+{
+    "Name": "Faeries Horticulture",
+    "Author": "Lavliette",
+    "Description": "Some mysterious crops have made their way to the valley.",
+    "Version": "1.0.0",
+    "UniqueID": "lavliette.faerieshorticulture",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

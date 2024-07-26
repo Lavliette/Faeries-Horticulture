@@ -1,0 +1,365 @@
+{
+
+    "Changes": [
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.AmbrosiaBerrySeeds": {
+                    "Id": "lavliette.AmbrosiaBerrySeeds",
+                    "ItemID": "(0)lavliette.AmbrosiaBerrySeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.AmbrosiaBerrySeeds",
+"AfterId": "ReturnScepter"
+                    
+                }
+            ]
+        },
+
+       {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.AngelsLoverSeeds": {
+                    "Id": "lavliette.AngelsLoverSeeds",
+                    "ItemID": "(0)lavliette.AngelsLoverSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.AngelsLoverSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.BarbariansGlorySeeds": {
+                    "Id": "lavliette.BarbariansGlorySeeds",
+                    "ItemID": "(0)lavliette.BarbariansGlorySeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.BarbariansGlorySeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.FirewingedLiliesSeeds": {
+                    "Id": "lavliette.FirewingedLiliesSeeds",
+                    "ItemID": "(0)lavliette.FirewingedLiliesSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.FirewingedLiliesSeeds",
+                   "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.FoolsLuckSeeds": {
+                    "Id": "lavliette.FoolsLuckSeeds",
+                    "ItemID": "(0)lavliette.FoolsLuckSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.FoolsLuckSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.LipstickLavenderSeeds": {
+                    "Id": "lavliette.LipstickLavenderSeeds",
+                    "ItemID": "(0)lavliette.LipstickLavenderSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.LipstickLavenderSeeds",
+                   "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.MaidensJoySeeds": {
+                    "Id": "lavliette.MaidensJoySeeds",
+                    "ItemID": "(0)lavliette.MaidensJoySeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.MaidensJoySeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.MaidensSorrowSeeds": {
+                    "Id": "lavliette.MaidensSorrowSeeds",
+                    "ItemID": "(0)lavliette.MaidensSorrowSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.MaidensSorrowSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.MarbleRoseSeeds": {
+                    "Id": "lavliette.MarbleRoseSeeds",
+                    "ItemID": "(0)lavliette.MarbleRoseSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.MarbleRoseSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.MidnightBeautySeeds": {
+                    "Id": "lavliette.MidnightBeautySeeds",
+                    "ItemID": "(0)lavliette.MidnightBeautySeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.MidnightBeautySeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.PaintedHeartsSeeds": {
+                    "Id": "lavliette.PaintedHeartsSeeds",
+                    "ItemID": "(0)lavliette.PaintedHeartsSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.PaintedHeartsSeeds",
+                  "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.SnowballPuffsSeeds": {
+                    "Id": "lavliette.SnowballPuffsSeeds",
+                    "ItemID": "(0)lavliette.SnowballPuffsSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.SnowballPuffsSeeds",
+                   "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.StarlightBlossomSeeds": {
+                    "Id": "lavliette.StarlightBlossomSeeds",
+                    "ItemID": "(0)lavliette.StarlightBlossomSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.StarlightBlossomSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.StoneMelonSeeds": {
+                    "Id": "lavliette.StoneMelonSeeds",
+                    "ItemID": "(0)lavliette.StoneMelonSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.StoneMelonSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.SunsetGrapesSeeds": {
+                    "Id": "lavliette.SunsetGrapesSeeds",
+                    "ItemID": "(0)lavliette.SunsetGrapesSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.SunsetGrapesSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+{
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ 
+                "ShadowShop",
+                "Items" 
+            ],
+            "Entries": {
+
+                "lavliette.VoidBerriesSeeds": {
+                    "Id": "lavliette.VoidBerriesSeeds",
+                    "ItemID": "(0)lavliette.VoidBerriesSeeds",
+                    "Price": "100"
+				}
+            },
+            "MoveEntries": [
+                {
+                    "Id": "lavliette.VoidBerriesSeeds",
+                    "AfterId": "ReturnScepter"
+                }
+            ]
+        },
+
+
+    ]
+}
